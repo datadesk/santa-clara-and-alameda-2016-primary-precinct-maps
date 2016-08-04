@@ -10,4 +10,4 @@ ESRI shapefiles provided by county officials in response to a public records req
 
 * [November intraparty showdown could unseat longtime Silicon Valley congressman Mike Honda](http://www.latimes.com/politics/la-pol-ca-mike-honda-ro-khanna-congress-20160804-snap-story.html)
 
-![Screenshot](./screenshot.png)
+[![Screenshot](./screenshot.png)](http://www.latimes.com/politics/la-pol-ca-mike-honda-ro-khanna-congress-20160804-snap-story.html)
