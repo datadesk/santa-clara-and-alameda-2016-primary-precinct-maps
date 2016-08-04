@@ -4,7 +4,7 @@ Maps of the consolidated precincts used in California's Alameda and Santa Clara 
 
 ### Source
 
-ESRI shapefiles provided by county officials in response to a public records request by the Los Angeles Times. Converted into GeoJSON via [ogr2ogr](https://gist.github.com/benbalter/5858851).
+ESRI shapefiles provided by county officials in response to a public records request by the Los Angeles Times. Converted into GeoJSON via [ogr2ogr](https://gist.github.com/benbalter/5858851). They made us pay for them. We're giving them away here for free.
 
 ### In action
 
